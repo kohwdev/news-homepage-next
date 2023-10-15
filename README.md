@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](./screenshot-desktop.jpg.jpg)
+![desktop](./screenshot-desktop.jpg)
 ![mobile](<./localhost_3000_%20(1).png>)
 
 ### Links
