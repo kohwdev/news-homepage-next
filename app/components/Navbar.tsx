@@ -43,11 +43,11 @@ const Navbar = () => {
       <div
         className={
           menuOpen
-            ? "fixed right-0 top-0 w-[60%] p-5 sm:hidden h-screen bg-off-white ease-in duration-500 z-50"
+            ? "fixed right-0 top-0 w-[60%] p-5 sm:hidden bg-off-white ease-in duration-500 z-50"
             : "fixed right-[-100%] top-0 p-5 ease-in duration-500 z-50"
         }
       >
-        <div className="flex flex-col items-end">
+        <div className="flex flex-col items-end h-screen">
           <div onClick={handleNav} className="cursor-pointer">
             <svg width="32" height="31" xmlns="http://www.w3.org/2000/svg">
               <g fill="#00001A" fill-rule="evenodd">
